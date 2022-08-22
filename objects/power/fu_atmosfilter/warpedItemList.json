@@ -85,17 +85,6 @@
 			}
 		]
 	},
-	"gregskittlegunfake": {
-		"effects": [{
-				"status": "marvinSkittles",
-				"team": "enemy"
-			},
-			{
-				"status": "nude",
-				"team": "all"
-			}
-		]
-	},
 	"cryonicextract": {
 		"effects": [{
 				"status": "slow",
