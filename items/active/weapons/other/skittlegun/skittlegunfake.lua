@@ -50,7 +50,7 @@ function update(dt, fireMode, shiftHeld)
 			for _,id in pairs(eList) do
 				if world.npcType(id)=="fulostandfoundnpc" then
 					eCat=true
-				elseif world.npcType(id)=="fuoutposthylotlscientist" then
+				elseif world.npcType(id)=="enx_brickass" then
 					eKevin=true
 				end
 			end
