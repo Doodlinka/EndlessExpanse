@@ -1,12 +1,19 @@
 {
-  "type" : "fuoutposthylotlscientist",
+  "type" : "enx_brickass",
   "baseType" : "fuoutpostcivilian",
-  "npcname" : "Kevin",
+  "npcname" : "brickass",
   "identity" : {
-    "imagePath" : "fumantizi",
-    "gender" : "male",
+    "imagePath" : "brickass",
+    "gender" : "female",
     "hairGroup" : "hair",
-    "hairType" : "f4"
+    "hairType" : "1",
+    "personalityArmOffset" : [0, 0],
+    "personalityArmIdle" : "idle.5",
+    "personalityHeadOffset" : [-1, 0],
+    "species" : "fukirhos",
+    "personalityIdle" : "idle.5",
+    "name" : "brickass",
+    "emoteDirectives" : "?replace;6f2919=869095;ffca8a=f8ffff;e0975c=e8f0ee;a85636=abc1c2?replace;735e3a=12446c;f7e7b2=0fb6c5;a38d59=0f5f8b;d9c189=058ba9"
   },
   "damageTeam" : 1,
     "scriptConfig" : {
@@ -95,12 +102,9 @@
         "override" : [
             [0, [
           {
-            //"head" : [ "goggles2" ],
-            //"chest" : [ "fusteampunkchest" ],
-            //"legs" : [ "fusteampunklegs" ]
-            "head" : [ "goggles2" ],
-            "chest" : [ "madscientistkevinchest" ],
-            "legs" : [ "madscientistpants" ]
+            "head" : [ "inviselduushead" ],
+            "chest" : [ "inviselduuchest" ],
+            "legs" : [ "inviselduupants" ]
           }
             ] ]
         ]
